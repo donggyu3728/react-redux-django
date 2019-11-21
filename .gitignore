@@ -171,4 +171,4 @@ ENV/
 .vscode
 
 # no NEED
-.sh
+mergeUpstream.sh
