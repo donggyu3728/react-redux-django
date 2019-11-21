@@ -169,3 +169,6 @@ ENV/
 .mypy_cache/
 
 .vscode
+
+# no NEED
+.sh
